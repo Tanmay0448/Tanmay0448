@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tanmay-thakur-231a432b2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Tanmay on LinkedIn" /></a>
   <a href="mailto:tanmaythakur2021@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Tanmay" /></a>
+  <a href="https://drive.google.com/file/d/123baDPqTYa8wOqzWRvKbZrD_REiTCLbp/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View_PDF-2F81F7?style=flat-square&logo=googledrive&logoColor=white" alt="View Tanmay's resume" /></a>
 </p>
 
 ## 🚀 About me
